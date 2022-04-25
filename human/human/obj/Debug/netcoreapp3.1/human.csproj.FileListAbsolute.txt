@@ -1,0 +1,13 @@
+C:\Users\serge\source\repos\homework (24.04.22)\human\human\bin\Debug\netcoreapp3.1\human.exe
+C:\Users\serge\source\repos\homework (24.04.22)\human\human\bin\Debug\netcoreapp3.1\human.deps.json
+C:\Users\serge\source\repos\homework (24.04.22)\human\human\bin\Debug\netcoreapp3.1\human.runtimeconfig.json
+C:\Users\serge\source\repos\homework (24.04.22)\human\human\bin\Debug\netcoreapp3.1\human.runtimeconfig.dev.json
+C:\Users\serge\source\repos\homework (24.04.22)\human\human\bin\Debug\netcoreapp3.1\human.dll
+C:\Users\serge\source\repos\homework (24.04.22)\human\human\bin\Debug\netcoreapp3.1\human.pdb
+C:\Users\serge\source\repos\homework (24.04.22)\human\human\obj\Debug\netcoreapp3.1\human.csprojAssemblyReference.cache
+C:\Users\serge\source\repos\homework (24.04.22)\human\human\obj\Debug\netcoreapp3.1\human.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\homework (24.04.22)\human\human\obj\Debug\netcoreapp3.1\human.AssemblyInfo.cs
+C:\Users\serge\source\repos\homework (24.04.22)\human\human\obj\Debug\netcoreapp3.1\human.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\homework (24.04.22)\human\human\obj\Debug\netcoreapp3.1\human.dll
+C:\Users\serge\source\repos\homework (24.04.22)\human\human\obj\Debug\netcoreapp3.1\human.pdb
+C:\Users\serge\source\repos\homework (24.04.22)\human\human\obj\Debug\netcoreapp3.1\human.genruntimeconfig.cache
